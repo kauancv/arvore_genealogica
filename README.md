@@ -1,5 +1,7 @@
 Programa de Árvore Genealógica
+
 Introdução
+
 Este projeto foi desenvolvido como trabalho final para a disciplina de Estruturas de Dados. O objetivo principal é criar um programa que gerencie uma árvore genealógica utilizando diversas estruturas de dados e algoritmos. O programa suporta a criação, modificação e exibição de uma árvore genealógica, e inclui funcionalidades para desfazer e refazer operações.
 
 Descrição do Projeto
